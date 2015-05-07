@@ -1,5 +1,5 @@
 <?php
-
+  
 if (!defined('__CSRF_PROTECTOR__')) {
 	define('__CSRF_PROTECTOR__', true); 	// to avoid multiple declaration errors
 
